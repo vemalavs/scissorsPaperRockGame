@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+h1,h2,h3{
+color: white;
+font-family: 'Kalam', cursive;
+
+}
+#img-link, #subt{
+    text-decoration: none ;
+    border:0 !important;
+    color:white;
+    font-family: 'Kalam', cursive;
+    font-size: 50px;
+
+}
